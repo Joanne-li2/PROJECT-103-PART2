@@ -1,0 +1,15 @@
+body{
+    color: beige;
+    background:radial-gradient(#e8e2d9, #B59C72, #745847, #513f39, #6f482a, #886d56, #a79076 ) ;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px dashed wheat;
+    width: 350px;
+    height: 300px;
+}
